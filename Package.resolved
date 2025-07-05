@@ -1,0 +1,15 @@
+{
+  "originHash" : "2be7cd103840ace88948b6c821e3a57e58ffea6afd994382afb3d715965815ee",
+  "pins" : [
+    {
+      "identity" : "storagekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SparrowTek/StorageKit.git",
+      "state" : {
+        "revision" : "2d3e914569682d207b43be6210e2904723ed9f2b",
+        "version" : "0.1.1"
+      }
+    }
+  ],
+  "version" : 3
+}
